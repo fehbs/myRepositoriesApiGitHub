@@ -8,7 +8,7 @@
 
 A aplicação foi feita com o consumo da API do GitHub. 
 
-Você pode adicionar os repositórios favoritos ou até mesmo os repositórios que lhe interessam e salvar para pesquisar e estudar quando quiser.
+Você pode adicionar os repositórios favoritos ou até mesmo os repositórios que lhe interessam e salvá-los para pesquisar e estudar quando quiser.
 
 
 Exemplo:  
