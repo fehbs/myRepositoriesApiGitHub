@@ -2,7 +2,8 @@
 <img align="center" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" gap="10px" />
 <img  align="center" width="8%" src="https://styled-components.com/logo.png" gap="10px"/>
 <img  align="center" width="7%" src="https://myoctocat.com/assets/images/base-octocat.svg" />
-
+<img  align="center" width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDfrPwQlRXDcAUWltZWpldDOhNqLYBefzP_g&usqp=CAU" />
+<img  align="center" width="16%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9n_1KmjU7ip2OmpK5OZIBUpava1-huF6mw&usqp=CAU" />
 
 # myRepositoriesApiGitHub
 
