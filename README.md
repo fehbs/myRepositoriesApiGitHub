@@ -5,7 +5,7 @@
 <img  align="center" width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDfrPwQlRXDcAUWltZWpldDOhNqLYBefzP_g&usqp=CAU" />
 <img  align="center" width="16%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9n_1KmjU7ip2OmpK5OZIBUpava1-huF6mw&usqp=CAU" />
 
-# myRepositoriesApiGitHub
+# My Favorite Repositories GitHub
 
 A aplicação foi feita com o consumo da API do GitHub. 
 
