@@ -60,6 +60,6 @@ useParams
 
 O deploy foi feito na vercel.
 
-my-repositories-api-git-hub.vercel.app/
+https://my-repositories-api-git-hub.vercel.app/
 ##
 </div>
