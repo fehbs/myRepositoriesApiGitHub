@@ -29,7 +29,7 @@ export const Owner = styled.header`
   align-items: center;
   
   @media(max-width: 600px) {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
   }
 
