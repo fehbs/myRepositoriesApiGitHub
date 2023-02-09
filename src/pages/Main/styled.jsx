@@ -18,6 +18,10 @@ justify-content: row;
 svg {
 margin-right: 10px;
 }
+
+ @media(max-width: 600px) {
+    width: 80%;
+  }
 }
 `;
 
