@@ -10,7 +10,7 @@ export const Loading = styled.div`
 `;
 
 export const Container = styled.div`
-  max-width: 800px;
+  max-width: 900px;
   background: #FFF;
   border-radius: 4px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
@@ -28,11 +28,6 @@ export const Owner = styled.header`
   flex-direction:column;
   align-items: center;
   
-  @media(max-width: 600px) {
-    width: 90%;
-    margin: 0 auto;
-  }
-
   img{
     width: 150px;
     border-radius: 20%;
@@ -67,7 +62,7 @@ export const IssuesList = styled.ul`
   list-style:none;
   
    @media(max-width: 600px) {
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
   }
 
@@ -128,6 +123,11 @@ export const PageActions = styled.div`
   display:flex;
   align-items:center;
   justify-content: space-between;
+  
+     @media(max-width: 600px) {
+    width: 80%;
+    margin: 0 auto;
+  }
 
   button{
     outline:0;
