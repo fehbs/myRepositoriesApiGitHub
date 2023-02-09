@@ -136,11 +136,11 @@ export default function Repositorie() {
           onClick={() => handlePage('back')}
           disabled={page < 2}
         >
-          Voltar
+          Back
         </button>
 
         <button type="button" onClick={() => handlePage('next')}>
-          Proxima
+          Next
         </button>
       </PageActions>
 
