@@ -61,11 +61,6 @@ export const IssuesList = styled.ul`
   border-top: 1px solid #eee;
   list-style:none;
   
-   @media(max-width: 600px) {
-    width: 90%;
-    margin: 0 auto;
-  }
-
   li{
     display:flex;
     padding: 15px 10px;
@@ -124,11 +119,6 @@ export const PageActions = styled.div`
   align-items:center;
   justify-content: space-between;
   
-    @media(max-width: 600px) {
-    width: 90%;
-    margin: 0 auto;
-  }
-
   button{
     outline:0;
     border:0;
