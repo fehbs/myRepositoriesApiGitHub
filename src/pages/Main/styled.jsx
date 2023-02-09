@@ -1,7 +1,8 @@
 import styled, { keyframes, css } from 'styled-components';
 
 export const Container = styled.div`
-max-width: 700px;
+width: 800px;
+max-width: 100%;
 background-color: #fff;
 border-radius: 4px;
 box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
