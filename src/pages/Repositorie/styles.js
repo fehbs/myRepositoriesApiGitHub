@@ -18,7 +18,7 @@ export const Container = styled.div`
   margin: 80px auto;
   
    @media(max-width: 600px) {
-    width: 90%;
+    max-width: 100%;
     margin: 80px auto;
   }
 `;
