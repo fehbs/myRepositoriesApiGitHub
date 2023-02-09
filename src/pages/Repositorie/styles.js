@@ -65,6 +65,11 @@ export const IssuesList = styled.ul`
   padding-top: 30px;
   border-top: 1px solid #eee;
   list-style:none;
+  
+   @media(max-width: 600px) {
+    width: 100%;
+    margin: 0 auto;
+  }
 
   li{
     display:flex;
