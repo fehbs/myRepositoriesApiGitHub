@@ -16,6 +16,11 @@ export const Container = styled.div`
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   padding: 30px;
   margin: 80px auto;
+  
+   @media(max-width: 600px) {
+    width: 90%;
+    margin: 80px auto;
+  }
 `;
 
 export const Owner = styled.header`
