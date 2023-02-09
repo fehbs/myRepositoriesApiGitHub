@@ -9,6 +9,12 @@ box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 padding: 30px;
 margin: 80px auto;
 
+ @media(max-width: 600px) {
+    width: 50%;
+    margin: 80px auto;
+
+  }
+
 h1 {
 font-size: 20px;
 display: flex;
@@ -18,10 +24,6 @@ justify-content: row;
 svg {
 margin-right: 10px;
 }
-
- @media(max-width: 600px) {
-    width: 80%;
-  }
 }
 `;
 
