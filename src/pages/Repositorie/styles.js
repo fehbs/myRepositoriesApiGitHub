@@ -10,7 +10,7 @@ export const Loading = styled.div`
 `;
 
 export const Container = styled.div`
-  max-width: 1000px;
+  max-width: 900px;
   background: #FFF;
   border-radius: 4px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
@@ -18,7 +18,7 @@ export const Container = styled.div`
   margin: 80px auto;
   
    @media(max-width: 600px) {
-    max-width: 100%;
+   width: 100%;
     margin: 80px auto;
   }
 `;
