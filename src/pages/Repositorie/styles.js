@@ -18,7 +18,7 @@ export const Container = styled.div`
   margin: 80px auto;
   
    @media(max-width: 600px) {
-   width: 100%;
+    width: 100%;
     margin: 80px auto;
   }
 `;
@@ -27,6 +27,11 @@ export const Owner = styled.header`
   display: flex;
   flex-direction:column;
   align-items: center;
+  
+  @media(max-width: 600px) {
+    width: 100%;
+    margin: 0 auto;
+  }
 
   img{
     width: 150px;
