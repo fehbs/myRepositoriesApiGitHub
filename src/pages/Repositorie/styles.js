@@ -18,7 +18,7 @@ export const Container = styled.div`
   margin: 80px auto;
   
    @media(max-width: 600px) {
-    width: 80%;
+    width: 86%;
     margin: 80px auto;
   }
 `;
@@ -62,7 +62,7 @@ export const IssuesList = styled.ul`
   list-style:none;
   
    @media(max-width: 600px) {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
   }
 
@@ -124,8 +124,8 @@ export const PageActions = styled.div`
   align-items:center;
   justify-content: space-between;
   
-     @media(max-width: 600px) {
-    width: 80%;
+    @media(max-width: 600px) {
+    width: 90%;
     margin: 0 auto;
   }
 
