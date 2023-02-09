@@ -10,7 +10,7 @@ export const Loading = styled.div`
 `;
 
 export const Container = styled.div`
-  max-width: 900px;
+  max-width: 800px;
   background: #FFF;
   border-radius: 4px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
