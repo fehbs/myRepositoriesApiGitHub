@@ -1,7 +1,7 @@
 import styled, { keyframes, css } from 'styled-components';
 
 export const Container = styled.div`
-width: 600px;
+width: 900px;
 max-width: 100%;
 background-color: #fff;
 border-radius: 4px;
